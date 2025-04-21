@@ -9,3 +9,7 @@ BRAINTECT is a machine learning based web application that detects brain tumours
 3. Go to ``` http://localhost:5000/ ```
 4. Now, you can use the application!
 
+
+### Poster
+[📄 View the PDF](./Poster.pdf)
+
